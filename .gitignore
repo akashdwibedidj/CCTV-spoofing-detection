@@ -1,13 +1,3 @@
-# Ignore a specific file
-secret_config.json
-
-# Ignore an entire folder (always end with a slash)
+.idea/
+.venv/
 models/
-.env/
-
-# Ignore all files with a specific extension (e.g., log files)
-*.log
-
-# Ignore OS-generated system files
-.DS_Store
-Thumbs.db
