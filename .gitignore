@@ -2,3 +2,4 @@
 .venv/
 models/
 test.py
+archive/
